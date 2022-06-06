@@ -1,0 +1,22 @@
+# Maestro script
+# Put script in Maestro control center
+begin
+  move_left
+   move_right
+repeat
+
+sub move_left
+	38 delay
+	7250 0 servo
+	38 delay
+	7000 0 servo
+	38 delay
+	return
+
+sub move_right
+	38 delay
+	6750 0 servo
+	38 delay
+	7000 0 servo
+	38 delay
+	return
