@@ -9,7 +9,7 @@ Duct tape was used in our setup to attach the arm and the controller to a surfac
 <br />
 The setup should be similar to the setup seen in the following image:
 <br />
-!(https://github.com/B-Starkenburg/Robotics/blob/master/arm_setup.jpeg)
+![afbeelding](https://user-images.githubusercontent.com/55835594/172166274-6a3e103b-ea07-4d04-8f70-d135d84b1bac.png)
 <br />
 * Step 4: Connect the servos of the robotic arm to the Maestro Servo Controller.<br />
 * Step 5: Connect the Maestro Servo Controller to the device that is responsible for running the Pololu interface.<br />
